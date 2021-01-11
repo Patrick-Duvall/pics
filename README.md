@@ -3,3 +3,5 @@ It then uses the unsplash API to grab images that match the search term and disp
 
 ## App Design
 
+![image](https://user-images.githubusercontent.com/35322570/104213615-ba23d180-53f3-11eb-9280-0d8de93137ff.png)
+
